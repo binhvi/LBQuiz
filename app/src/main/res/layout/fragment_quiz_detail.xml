@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.QuizDetailFragment"
+    android:paddingRight="@dimen/horizontal_padding"
+    android:paddingLeft="@dimen/horizontal_padding"
+    android:paddingBottom="16dp">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imgQuiz"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        />
+    <TextView
+        android:id="@+id/tvQuizTitle"
+        android:layout_below="@id/imgQuiz"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginBottom="8dp"/>
+
+    <ScrollView
+        android:id="@+id/scrollViewQuizDescriptionContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvQuizTitle"
+        android:layout_above="@id/btnToDoQuizFragment"
+        android:layout_marginBottom="8dp">
+        <TextView
+            android:id="@+id/tvQuizDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnToDoQuizFragment"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/ButtonRedCornerFiveDp"
+        android:text="@string/do_quiz" />
+</RelativeLayout>

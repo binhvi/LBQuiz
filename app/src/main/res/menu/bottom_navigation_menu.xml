@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_homepage"
+        android:title="@string/home_page"/>
+    <item android:title="@string/results"
+        android:id="@+id/navigation_result"
+        android:icon="@drawable/ic_one_hundred_points"/>
+    <item android:icon="@drawable/ic_login"
+        android:id="@+id/navigation_user_account"
+        android:title="@string/user" />
+</menu>

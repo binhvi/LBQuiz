@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">LBQuiz</string>
+    <string name="home_page">Trang chủ</string>
+    <string name="results">Kết quả</string>
+    <string name="user">Người dùng</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="auto_question_title">Vì cứu Luffy mà Shanks đã mất cánh tay nào?</string>
+    <string name="congrats_you_have_completed_the_quiz">Chúc mừng bạn đã hoàn thành các câu hỏi</string>
+    <string name="submit">Nộp bài</string>
+    <string name="auto_result_score">Chúc mừng bạn đã đạt 28 điểm</string>
+    <string name="auto_result_title">Kiến thức trung bình</string>
+    <string name="save_result">Lưu kết quả</string>
+
+
+    <string name="search_for_quiz_name">Nhập tên trắc nghiệm</string>
+
+    <string name="score">Điểm:</string>
+    <string name="result_title">Kết quả:</string>
+    <string name="result_auto_save_time">20/10/2019 5:30PM</string>
+    <string name="do_you_want_to_delete_this_result">Bạn có đồng ý xóa?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="ok">OK</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ligula aliquet, blandit urna eget, ornare lectus. Integer sed maximus tellus, ut vestibulum libero. Integer congue lacus et tempor pellentesque</string>
+    <string name="lorem_three_paragraph"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ligula metus, consectetur ut ipsum quis, tincidunt pellentesque felis. Quisque vestibulum lectus sit amet nisi porttitor lobortis. Aenean lacinia feugiat erat nec tincidunt. Etiam rutrum ullamcorper mi, dictum fermentum urna pretium a. Nunc dictum gravida sem, ac tristique libero. Cras efficitur tempus pulvinar. Ut commodo felis odio.
+
+        Integer sagittis placerat dui, nec tincidunt est. Quisque mi nibh, rutrum vitae dui quis, porttitor sagittis mi. Nulla mi massa, sagittis maximus nulla ac, hendrerit semper dolor. Phasellus cursus sem quis felis gravida cursus. Vestibulum posuere nulla vel mattis sodales. Proin tincidunt tempus scelerisque. Mauris sit amet posuere massa. Integer sit amet tincidunt ex, et elementum est. In ut luctus orci, ut convallis lorem. Nulla facilisi. Sed eros ex, tempus in ligula ut, maximus fermentum lacus. Sed turpis nisi, tempor vel odio ut, ultrices consequat dui. Aenean aliquet mauris pretium, consectetur lectus cursus, condimentum libero. Nullam quis auctor felis, quis vulputate urna.
+
+        Phasellus cursus nisl sed mi lacinia, quis condimentum justo tempor. Phasellus diam tellus, euismod id lorem vehicula, bibendum posuere sapien. Phasellus volutpat, urna nec viverra pellentesque, tortor est pharetra augue, nec congue felis est ut orci. Suspendisse rutrum mauris vel lacus maximus, accumsan porttitor nunc volutpat. Ut at iaculis felis. Morbi viverra turpis eget egestas bibendum. Donec ultricies turpis ac cursus vestibulum.</string>
+    <string name="sign_out">Đăng xuất</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_in">Đăng nhập</string>
+    <string name="log_up">Đăng ký</string>
+    <string name="log_in_or_log_up">Đăng nhập / Đăng ký</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="fullname">Họ và tên</string>
+    <string name="default_quiz_result_description">Bạn thật là 1 người hiểu biết. Chúc bạn luôn vui vẻ nhé!</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="old_password">Mật khẩu cũ</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="retype_new_password">Nhập lại mật khẩu mới</string>
+    <string name="save_changes">Lưu thay đổi</string>
+    <string name="do_quiz">Làm quiz</string>
+    <string name="default_quiz_title">Bạn có phải là một fan trung thành của One Piece?</string>
+    <string name="default_quiz_description">Từ thuyền trưởng Luffy, những thành viên tuyệt vời trong băng như Zoro, Sanji... đến những kẻ thù mà họ gặp phải như Caesar, Doflamingo,... Hãy cùng chờ xem bạn hiểu họ đến mức nào nhé?</string>
+    <string name="you_have_to_log_in_to_save_result">Bạn phải đăng nhập trong mục \"Người dùng\" để lưu kết quả</string>
+    <string name="you_scored">Bạn đạt</string>
+    <string name="points">điểm</string>
+
+    <string name="lorem_6_paragraphs">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at laoreet sapien. Sed quam metus, luctus quis felis vel, laoreet scelerisque dui. In fermentum lacinia auctor. Quisque fringilla ultricies hendrerit. Cras et quam libero. Mauris vel blandit dui, in aliquam magna. Maecenas quis tempor magna, ullamcorper tempus nibh. Suspendisse eu lacinia diam. Nam vel ligula bibendum, tincidunt leo non, condimentum massa. Quisque luctus ut sem non posuere.
+
+Vestibulum dui ipsum, lacinia id purus a, bibendum pellentesque lorem. Nullam iaculis augue ut cursus rutrum. Pellentesque non eros nibh. Curabitur scelerisque arcu ac ipsum dignissim lobortis. Proin ullamcorper eros enim, sit amet iaculis nisl faucibus nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam eu libero quis tortor aliquet faucibus et sed metus. Praesent commodo ipsum erat, at tempus mauris interdum eu. Ut in massa tristique, cursus dolor in, pretium purus. Etiam libero diam, ornare at laoreet non, tempor sed risus. Sed volutpat, nisi ut tincidunt bibendum, enim nisi feugiat nulla, id elementum lectus orci eu odio. Nulla dui dui, tincidunt ac eros quis, tempus volutpat sem. Donec sed semper dolor, id cursus sapien. Mauris hendrerit lacus gravida magna gravida blandit.
+
+Suspendisse in nunc sit amet diam posuere blandit. Pellentesque non molestie tortor. Cras dictum in nibh ut efficitur. Nam eleifend vestibulum volutpat. Vestibulum placerat quam id neque tincidunt, in consequat nunc placerat. In at tellus sit amet diam semper tincidunt vitae ut ex. Donec molestie odio a metus sollicitudin fringilla. Cras eget odio et lacus scelerisque ornare sed a tortor. Pellentesque ullamcorper, erat ac consectetur fermentum, ex est bibendum metus, non malesuada lectus ante in magna. Cras vestibulum, justo quis congue hendrerit, lacus urna finibus velit, tincidunt consequat turpis est nec lacus. Integer euismod metus lorem, id tincidunt ante sodales eget.
+
+Integer iaculis est vitae auctor gravida. In viverra mi et hendrerit posuere. Nunc eleifend ex ac velit ultricies mollis et eu augue. Sed tortor leo, elementum eu libero at, tristique iaculis dui. Vestibulum consectetur mauris et quam scelerisque, iaculis imperdiet mauris placerat. Fusce faucibus neque odio, id tempor lectus egestas vitae. Curabitur fringilla, ex et fringilla commodo, elit magna rutrum sem, ut varius neque metus et velit. Phasellus venenatis, tortor vitae luctus sollicitudin, magna leo fringilla arcu, quis egestas tortor dui et nisi.
+
+Quisque nibh diam, iaculis a aliquet eget, auctor sed arcu. Vivamus eget nisl placerat, iaculis magna eu, mattis dolor. Sed vel porta quam. Donec feugiat elit nec urna finibus, eu condimentum arcu placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc tincidunt tellus vel orci consectetur volutpat. Maecenas sit amet scelerisque turpis. Fusce ultricies fringilla sapien, ut pharetra diam venenatis non. In rhoncus non purus ut fringilla. Praesent interdum orci magna. Praesent et tincidunt ex, imperdiet tincidunt nibh. Integer ullamcorper urna a dignissim cursus. Aliquam dui velit, varius a velit sit amet, euismod sollicitudin urna.
+
+Praesent urna ligula, ultricies suscipit laoreet in, fermentum in odio. Curabitur ut eros sed lectus blandit hendrerit. Vivamus accumsan lobortis lacus, vitae pulvinar tortor elementum et. Aliquam at egestas purus. Ut a enim elit. Mauris quis massa nisi. Integer vel erat tempus, laoreet nisl in, mollis quam. Sed bibendum diam sit amet quam porttitor, vel imperdiet nisi condimentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque est urna, maximus nec odio sed, porta sollicitudin justo. Donec porttitor venenatis elit, at rhoncus erat varius in. In suscipit, nisl eu suscipit imperdiet, lorem augue feugiat sapien, a iaculis nibh mauris fermentum leo. </string>
+    <string name="bookmarked">Đã đánh dấu</string>
+    <string name="removed_bookmark">Đã bỏ đánh dấu</string>
+    <string name="retype_password">Nhập lại mật khẩu</string>
+    <string name="can_not_be_empty">không được để trống</string>
+    <string name="username_only_contains_letters_numbers_and_understroke_character">Tên đăng nhập chỉ chứa chữ cái, chữ số và dấu gạch dưới (_)</string>
+    <string name="password_must_have_at_least_six_characters">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="repass_must_equal_password">Mật khẩu gõ lại không khớp với mật khẩu</string>
+    <string name="username_duplicate">Tên đăng nhập đã tồn tại</string>
+    <string name="save_successfully">Lưu thành công</string>
+    <string name="save_failed">Lưu thất bại</string>
+    <string name="not_contain_white_space_character">không chứa ký tự trắng</string>
+    <string name="username_does_not_exist">Tên đăng nhập không tồn tại</string>
+    <string name="password_is_incorrect">Sai mật khẩu</string>
+    <string name="login_sucessfully">Đăng nhập thành công</string>
+    <string name="old_password_is_incorrect">Mật khẩu cũ không đúng</string>
+    <string name="delete_successfully">Xóa thành công</string>
+    <string name="delete_failed">Xóa thất bại</string>
+</resources>

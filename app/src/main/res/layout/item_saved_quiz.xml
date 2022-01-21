@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        android:layout_marginBottom="8dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/imgQuiz"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:src="@drawable/img_not_found"
+                android:scaleType="centerCrop"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"/>
+            <LinearLayout
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_toRightOf="@id/imgQuiz"
+                android:layout_toLeftOf="@id/imageButtonUnbookmarkQuiz">
+                <TextView
+                    android:id="@+id/tvQuizTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Title"
+                    android:textSize="20dp"
+                    android:textColor="@android:color/black"/>
+                <TextView
+                    android:id="@+id/tvQuizDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ligula aliquet, blandit urna eget, ornare lectus. Integer sed maximus tellus, ut vestibulum libero. Integer congue lacus et tempor pellentesque"
+                    />
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/imageButtonUnbookmarkQuiz"
+                android:layout_width="25dp"
+                android:layout_height="37dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:background="@null"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_remove_bookmark" />
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

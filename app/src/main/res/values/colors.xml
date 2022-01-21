@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c80a0a</color>
+    <color name="colorPrimaryDark">#8f0000</color>
+    <color name="colorAccent">#ff5136</color>
+
+
+    <!--quiz-->
+    <color name="colorQuizOptions">#f8a03d</color>
+    <color name="colorQuizQuestionIndex">#060202</color>
+    <color name="colorSubmitQuizSaveQuizResult">#e7b8b8</color>
+    <color name="colorQuizResultTitle">#0f0606</color>
+    <color name="colorTextButtonSaveQuizResult">#f1eeee</color>
+    <color name="colorTextButtonSubmitQuiz">#f9f4f4</color>
+    <color name="color_text_welcome">#e2394a</color>
+</resources>
